@@ -1,10 +1,13 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+A probot app that welcome new users
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Welcomes users when they create
+    - new issues
+    - new PRs
+- Says thanks to users who have contributed first time to this repo.
 
 ## Getting started
 
